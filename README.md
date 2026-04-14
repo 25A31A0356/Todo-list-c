@@ -1,2 +1,14 @@
-# Todo-list-c
-Simple console-based To-Do List app using c program 
+
+
+# C To-Do List Program
+
+## Features
+- Add tasks
+- Delete tasks
+- View tasks
+
+## Language
+C Programming
+
+## Author
+Saiteja
